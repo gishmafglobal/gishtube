@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "482896346764",
+    "project_id": "gishtube-abade",
+    "storage_bucket": "gishtube-abade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482896346764:android:2038562534941be15d05a9",
+        "android_client_info": {
+          "package_name": "com.example.gishtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482896346764-cealpf3hhrg2lt4k89tdv7i6ag2k137b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNfMJQn9nuGH1dkUIPeXNNoLjdBN7LV6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482896346764-cealpf3hhrg2lt4k89tdv7i6ag2k137b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482896346764-7opa8rf7a1s5ok4oibluotg5vcforjph.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gishtube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
