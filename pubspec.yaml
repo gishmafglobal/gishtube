@@ -1,9 +1,10 @@
-    
+
+
 name: gishtube
-description: Netflix styled video streaming app
+description: Netflix-styled video streaming app
 publish_to: "none"
 
-version: 1.0.0+1
+version: 1.0.0+11
 
 environment:
   sdk: ">=3.10.0 <4.0.0"
@@ -13,29 +14,21 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.6
-
-  # Video
   video_player: ^2.8.2
-
-  # UI & State
   provider: ^6.1.2
-
-  # Audio
   audioplayers: ^5.2.1
-
-  # Networking & images
   http: ^1.2.0
   cached_network_image: ^3.3.1
-
-  # ✅ FIXED (new version)
   fluttertoast: ^9.0.0
 
-  # Firebase (MODERN — REQUIRED)
+  # Firebase
   firebase_core: ^3.6.0
   firebase_auth: ^5.3.0
   cloud_firestore: ^5.4.0
   firebase_storage: ^12.3.0
 
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   uses-material-design: true
@@ -50,8 +43,6 @@ flutter:
     - assets/Aftrburn_phto.jpeg
     - assets/kisofdspidrwmn_phto.jpeg
     - assets/gishtube_logo.png
-
-    # extra posters
     - assets/heswchn_uphto.jpeg
     - assets/vanshd_mv_phto.jpeg
     - assets/drm4lz_mvphto.jpeg
@@ -59,6 +50,10 @@ flutter:
     - assets/spngbobmv_phto.jpeg
     - assets/1battlaftrdothr_phto.jpeg
     - assets/theintnshp_phto.jpeg
-
-    # audio
     - assets/audio/cinematic_intro.mp3
+
+# Flutter Launcher Icons
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon.png"   # Make sure this file exists
