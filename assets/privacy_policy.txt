@@ -1,0 +1,133 @@
+# Privacy Policy
+
+**Effective Date:** [Insert Date]
+**App Name:** GishTube
+**Developer:** Gishmaf Global
+
+GishTube (“we”, “our”, or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use the GishTube mobile application.
+
+By using the app, you agree to the collection and use of information in accordance with this policy.
+
+---
+
+## 1. Information We Collect
+
+We may collect the following types of information:
+
+### Personal Information
+
+When you create an account or sign in, we may collect:
+
+* Name or username
+* Email address
+* Profile information you choose to provide
+
+### Usage Information
+
+We may automatically collect:
+
+* App usage data
+* Pages/screens viewed
+* Search and viewing activity
+* Device type and OS version
+* Crash logs and diagnostics data
+
+### Media & Streaming Data
+
+We may record viewing interactions such as:
+
+* Videos watched
+* Watch history
+* Favorites or saved content
+
+---
+
+## 2. How We Use Your Information
+
+We use collected information to:
+
+* Provide and operate the app
+* Enable account login and profile features
+* Personalize content recommendations
+* Improve streaming performance
+* Fix bugs and technical issues
+* Monitor usage and app stability
+* Communicate important service updates
+
+---
+
+## 3. Third-Party Services
+
+GishTube may use trusted third-party services to operate features of the app. These services may collect information according to their own privacy policies.
+
+Examples may include:
+
+* Authentication providers
+* Cloud hosting services
+* Analytics tools
+* Video or trailer providers
+* Crash reporting services
+
+We are not responsible for the privacy practices of third-party services.
+
+---
+
+## 4. Data Sharing
+
+We do **not sell your personal data**.
+
+We may share limited data only when necessary:
+
+* To provide app functionality through service providers
+* To comply with legal obligations
+* To protect our rights and prevent abuse
+
+---
+
+## 5. Data Security
+
+We use reasonable technical and organizational safeguards to protect your information. However, no system can be guaranteed 100% secure.
+
+---
+
+## 6. Data Retention
+
+We retain user data only as long as necessary to provide services and fulfill legitimate business purposes. You may request account deletion at any time.
+
+---
+
+## 7. Children’s Privacy
+
+GishTube is not intended for children under 13. We do not knowingly collect personal information from children. If such data is discovered, it will be deleted promptly.
+
+---
+
+## 8. Your Rights
+
+Depending on your location, you may have the right to:
+
+* Access your personal data
+* Request correction
+* Request deletion
+* Withdraw consent
+
+You can contact us using the details below.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted with a new effective date.
+
+---
+
+## 10. Contact Us
+
+If you have questions about this Privacy Policy, contact:
+
+**Email:** [gishmafglobal@gmail.com]
+**Developer:** Gishmaf Global
+
+---
+
+End of Privacy Policy

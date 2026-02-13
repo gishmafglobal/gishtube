@@ -82,6 +82,18 @@ class _SignupScreenState extends State<SignupScreen> {
                 },
                 child: const Text("Sign Up"),
               ),
+              TextButton(
+  child: const Text("Privacy Policy"),
+  onPressed: () {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => const PrivacyPolicyScreen(),
+      ),
+    );
+  },
+)
+
             ],
           ),
         ),
